@@ -8,15 +8,15 @@ table, th, td {
 
 table {
     border-collapse: collapse;
-    width: 50%;
+    width: 25%;
 }
 
 th {
-    height: 50px;
+    height: 25px;
 }
 
 img {
-    width:50%;
+    width:25%;
    
 }
 
