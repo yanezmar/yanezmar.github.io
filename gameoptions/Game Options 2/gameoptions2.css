@@ -1,0 +1,37 @@
+.q2,.q3,.q1,.q1-choice,.q2-choice,.q3-choice{
+    display:none;
+    font-family:impact;
+    color:#f99192;
+
+}
+
+
+h1,h2,h3,h4,h5{
+    color:#f99192;
+        font-family:impact;
+
+}
+.title{
+    background-color:#8ad6cc;
+     text-align: center;
+    padding: 20px;
+}
+
+.sidebar{
+    float:left;
+    width: 15%;
+    height:600px;
+    background-color:#b2eee6;
+}
+
+.content{
+
+}
+body{
+    font-family:impact;
+    text-align:center;
+    color:#f97171;
+}
+narrative{
+    color:red;
+}
